@@ -20,7 +20,7 @@ Me chamo Guilherme Cordeiro Cândido, tenho 17 anos e sou natural de São José 
         <img 
             alt="Seguidores" 
             title="Seguidores no GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/Seguidores-%234066A3?logo=github&logoColor=white&style=for-the-badge"
+            src="https://custom-icon-badges.demolab.com/badge/Seguidores-%236F37AD?logo=github&logoColor=white&style=for-the-badge"
         />
     </a>
 </p>

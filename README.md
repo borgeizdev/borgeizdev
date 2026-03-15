@@ -67,12 +67,6 @@ Me chamo Guilherme Cordeiro Cândido, tenho 17 anos e sou natural de São José 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
 />
 <img 
-    alt="C"
-    title="C" 
-    width="40px"
-    src="https://github.com/user-attachments/assets/2ee2e73a-6d71-4019-9e01-4acba7dce7b8"
-/>
-<img 
     alt="Python"
     title="Python" 
     width="40px"

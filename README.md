@@ -49,12 +49,6 @@ Me chamo Guilherme Cordeiro Cândido, tenho 17 anos e sou natural de São José 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 <img 
-    alt="JavaScript"
-    title="JavaScript" 
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img 
     alt="Java"
     title="Java" 
     width="40px"
@@ -83,12 +77,6 @@ Me chamo Guilherme Cordeiro Cândido, tenho 17 anos e sou natural de São José 
     title="MySQL" 
     width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-    alt="PHP"
-    title="PHP" 
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
 </p>
 

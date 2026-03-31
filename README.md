@@ -87,11 +87,11 @@ Me chamo Guilherme Cordeiro Cândido, tenho 17 anos e sou natural de São José 
 
 <p align="center">
   <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=borgeizdev&show_icons=true&theme=dark&include_all_commits=true" 
-  />
-  <img 
-    height="195" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgeizdev&layout=donut&theme=dark&include_all_commits=true" 
-  />
+  height="200" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=borgeizdev&show_icons=true&theme=dark&include_all_commits=true" 
+    />
+    <img 
+      height="195" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=borgeizdev&layout=compact&theme=dark&include_all_commits=true" 
+    />
 </p>

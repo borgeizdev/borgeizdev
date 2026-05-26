@@ -27,7 +27,7 @@ Me chamo Guilherme Cordeiro Cândido, tenho 17 anos e sou natural de São José 
 
 ---
 
-<h2 align="center">🤖 Possuo conhecimento em:</h2>
+<h2 align="center"> Possuo conhecimento em:</h2>
 
 <p align="center">
 <img 

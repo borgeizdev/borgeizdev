@@ -6,9 +6,9 @@ Me chamo Guilherme Cordeiro Cândido, tenho 17 anos e sou natural de São José 
 <br/>
 <div align="center">
 
-[![instagram](https://custom-icon-badges.demolab.com/badge/Instagram-%236F37AD?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/borgeiz.sz)
+[![instagram](https://custom-icon-badges.demolab.com/badge/Instagram-%236F37AD?logo=instagram&logoColor=white&style=for-the-badge "Meu Instagram!")](https://instagram.com/borgeiz.sz)
 [![E-mail](https://custom-icon-badges.demolab.com/badge/E--mail-%236F37AD?logo=gmail&logoColor=white&style=for-the-badge "Entre em contato pelo e-mail: guilhermecordeiroc25@gmail.com!")](mailto:guilhermecordeiroc25@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-%236F37AD?logo=linkedin-white&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/guilherme-cordeiro-b58565364/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-%236F37AD?logo=linkedin-white&logoColor=white&style=for-the-badge "Meu LinkedIn!")](https://www.linkedin.com/in/guilherme-cordeiro-b58565364/)
 
 </div>
 

@@ -16,11 +16,11 @@ Me chamo Guilherme Cordeiro Cândido, tenho 17 anos e sou natural de São José 
             src="https://custom-icon-badges.demolab.com/badge/Instagram-%236F37AD?logo=instagram&logoColor=white&style=for-the-badge"
         />
     </a>
-    <a href="https://github.com/borgeizdev?tab=followers">
+    <a href="mailto:guilhermecordeiroc25@gmail.com">
         <img 
-            alt="Seguidores" 
-            title="Seguidores no GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/Seguidores-%236F37AD?logo=github&logoColor=white&style=for-the-badge"
+            alt="E-mail" 
+            title="Entre em contato por e-mail!"
+            src="https://custom-icon-badges.demolab.com/badge/E--mail-%236F37AD?logo=gmail&logoColor=white&style=for-the-badge"
         />
     </a>
     <a href="https://www.linkedin.com/in/guilherme-cordeiro-b58565364/">

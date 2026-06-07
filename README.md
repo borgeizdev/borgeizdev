@@ -1,41 +1,19 @@
 # 🧑‍💻 Guilherme Cordeiro
-
 **`Desenvolvedor Back-end`** • **`Técnico em Informática`**
-
 <p align="left">
 Me chamo Guilherme Cordeiro Cândido, tenho 17 anos e sou natural de São José dos Campos (SP). Atualmente curso o 3º ano do ensino médio, concomitante com o técnico em informática. Sou apaixonado por tecnologia desde criança e busco constantemente aprender novas ferramentas e aprimorar minhas habilidades para evoluir na área da tecnologia.
 </p>
-
 <br/>
+<div align="center">
 
-<p align="center">
-    <a href="https://instagram.com/borgeiz.sz">
-        <img 
-            alt="instagram" 
-            title="Meu Instagram!" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-%236F37AD?logo=instagram&logoColor=white&style=for-the-badge"
-        />
-    </a>
-    <a href="mailto:guilhermecordeiroc25@gmail.com">
-        <img 
-            alt="E-mail" 
-            title="Entre em contato pelo e-mail: guilhermecordeiroc25@gmail.com!"
-            src="https://custom-icon-badges.demolab.com/badge/E--mail-%236F37AD?logo=gmail&logoColor=white&style=for-the-badge"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/guilherme-cordeiro-b58565364/">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn!" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%236F37AD?logo=linkedin-white&logoColor=white&style=for-the-badge"
-        />
-    </a>
-</p>
+[![instagram](https://custom-icon-badges.demolab.com/badge/Instagram-%236F37AD?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/borgeiz.sz)
+[![E-mail](https://custom-icon-badges.demolab.com/badge/E--mail-%236F37AD?logo=gmail&logoColor=white&style=for-the-badge "Entre em contato pelo e-mail: guilhermecordeiroc25@gmail.com!")](mailto:guilhermecordeiroc25@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-%236F37AD?logo=linkedin-white&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/guilherme-cordeiro-b58565364/)
+
+</div>
 
 ---
-
 <h2 align="center"> Possuo conhecimento em:</h2>
-
 <p align="center">
 <img 
     alt="HTML"
@@ -86,12 +64,9 @@ Me chamo Guilherme Cordeiro Cândido, tenho 17 anos e sou natural de São José 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 </p>
-
 <br/>
 <br/>
-
 <h2 align="center">📊 Estatísticas</h2>
-
 <p align="center">
   <img 
   height="200" 

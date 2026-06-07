@@ -23,6 +23,13 @@ Me chamo Guilherme Cordeiro Cândido, tenho 17 anos e sou natural de São José 
             src="https://custom-icon-badges.demolab.com/badge/Seguidores-%236F37AD?logo=github&logoColor=white&style=for-the-badge"
         />
     </a>
+    <a href="https://www.linkedin.com/in/guilherme-cordeiro-b58565364/">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn!" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%236F37AD?logo=linkedin-white&logoColor=white&style=for-the-badge"
+        />
+    </a>
 </p>
 
 ---

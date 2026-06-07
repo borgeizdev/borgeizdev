@@ -19,7 +19,7 @@ Me chamo Guilherme Cordeiro Cândido, tenho 17 anos e sou natural de São José 
     <a href="mailto:guilhermecordeiroc25@gmail.com">
         <img 
             alt="E-mail" 
-            title="Entre em contato por e-mail!"
+            title="Entre em contato pelo e-mail: guilhermecordeiroc25@gmail.com!"
             src="https://custom-icon-badges.demolab.com/badge/E--mail-%236F37AD?logo=gmail&logoColor=white&style=for-the-badge"
         />
     </a>

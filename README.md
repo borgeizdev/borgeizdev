@@ -24,6 +24,7 @@ Me chamo Guilherme Cordeiro Cândido, tenho 17 anos e sou natural de São José 
 <p align="center">
   <a href="https://skillicons.dev">
     <img
+      width= "400"
       alt=" Tecnologias"
       src="https://skillicons.dev/icons?i=html,css,cs,java,kotlin,python,mongodb,mysql,git"
     />
